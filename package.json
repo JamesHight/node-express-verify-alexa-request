@@ -1,0 +1,16 @@
+{
+  "name": "verify-alexa-request",
+  "version": "0.0.1",
+  "description": "Express middleware to verify an Alexa Skill request",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JamesHight/node-express-verify-alexa-request.git"
+  },
+  "scripts": {
+    "test": "node ./node_modules/.bin/mocha ./test"
+  },
+  "dependencies": {
+    "verify-alexa-request": "^0.0.1"
+  }
+}
